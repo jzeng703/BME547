@@ -5,6 +5,6 @@ def interface():
         print ("9 - Quit")
         choice = input ("Enter an option: ")
         if choice == "9":
-        return 
+            return 
 
 interface()
