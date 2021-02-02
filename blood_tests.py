@@ -59,5 +59,5 @@ def output_LDL(LDL, analysis2):
     print("The LDL entered was {}".format(LDL))
     print("The level is {}".format(analysis2))
 
-
-interface()
+if __name__ == "__main__":
+    interface()
